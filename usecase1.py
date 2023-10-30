@@ -7,7 +7,7 @@ import json
 import psycopg2
 import psycopg2.extras
 
-DATABRICKS_TOKEN= 'dapi1a547e827c34e82fbdec9b461528013a'
+DATABRICKS_TOKEN= '<databricks-token>'
 
 input_fields = ['General_Health', 'Checkup', 'Age_Category', 'Height', 'Weight', 'BMI',
        'Alcohol_Consumption', 'Fruit_Consumption',
